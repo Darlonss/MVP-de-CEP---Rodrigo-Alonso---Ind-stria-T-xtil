@@ -1,1 +1,1 @@
-# MVP-de-CEP---Rodrigo-Alonso---Ind-stria-T-xtil
+# **MVP — Controle Estatístico de Processo: Previsão de Produtividade em Linha de Confecção de Vestuário (Rodrigo Alonso)**
